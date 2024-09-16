@@ -1,0 +1,9 @@
+.content img {
+    max-width: 100%;
+}
+
+.image-caption {
+    text-align: center;
+    font-size: .8rem;
+    color: lightgrey;
+}
