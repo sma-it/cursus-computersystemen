@@ -9,7 +9,7 @@ In dit hoofdstuk maak je kennis met enkele basisconcepten die voor elke informat
 
 
 <div class="note opmerking">
-<p>Dikwijls klagen mensen dat hun computer zo traag gaat. Als de computer in kwestie veel lawaai maakt kan je het volgende proberen: koop een busje perslucht en open de kast van de computer. Blaas alle stof weg van het moederbord en de ventilatoren.</p> 
+<p>Dikwijls klagen mensen dat hun computer zo traag gaat. Als de computer in kwestie veel lawaai maakt kan je het volgende proberen: koop een busje perslucht en open de kast van de computer. Blaas alle stof weg van het mainboard en de ventilatoren.</p> 
 
 <p>Het extra stof in de ventilatoren zorgt er voor dat die harder moeten werken en meer lawaai maken. Stof op de CPU zorgt dat die snel oververhit raakt en dus trager werkt om dat op te vangen.
 </p>

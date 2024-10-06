@@ -10,7 +10,7 @@ Wanneer je met computers werkt, dan is veiligheid enorm belangrijk. Computers zi
 <div class="header2" markdown = "1">## Electriciteit
 </div>
 
-Tenzij je de spanning aan het meten bent, werk je nooit aan een computer zonder de stroomkabel eerst uit te trekken. De computer gewoon uit zetten is niet genoeg. Voedingen voorzien dan nog steeds stroom voor het moederbord. Trek dus echt de kabel uit.
+Tenzij je de spanning aan het meten bent, werk je nooit aan een computer zonder de stroomkabel eerst uit te trekken. De computer gewoon uit zetten is niet genoeg. Voedingen voorzien dan nog steeds stroom voor het mainboard. Trek dus echt de kabel uit.
  
 De voeding zelf laat je dicht, zelfs al steekt er geen stekker in. Interne onderdelen kunnen nog steeds een elektrische lading bevatten. Mocht je er een aanraken dan kan je een flinke schok krijgen.
 

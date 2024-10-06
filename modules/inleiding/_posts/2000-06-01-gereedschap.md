@@ -36,4 +36,4 @@ Je kan zien dat deze multimeter 2 testpennen heeft. Je hoort de zwarte pen met e
 
 De voeding testen kan je enkel wanneer de computer aan staat. Daarom moet je extra voorzichtig zijn. Raak zeker niets aan met je handen of de testpennen, behalve de connectors. Zorg ook dat je geen juwelen draagt. Als een armband of ketting een onderdeel raakt, kan je een kortsluiting veroorzaken.
 
-Je kan ook andere dingen testen met een multimeter. Als je meter instelt op ``continuity check'' dan hoor je een beep wanneer je de twee testpennen tegen mekaar houdt. Dat geeft aan dat er een connectie is. Wanneer je nu de twee pennen aan de twee uiteinden van een draad houdt, en je hoort geen beep, dan weet je dat de kabel stuk is.
+Je kan ook andere dingen testen met een multimeter. Als je meter instelt op "continuity check" dan hoor je een beep wanneer je de twee testpennen tegen mekaar houdt. Dat geeft aan dat er een connectie is. Wanneer je nu de twee pennen aan de twee uiteinden van een draad houdt, en je hoort geen beep, dan weet je dat de kabel stuk is.

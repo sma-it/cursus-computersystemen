@@ -14,7 +14,7 @@ Computer cases bevatten veel van de onderdelen van een computer en er zijn veel 
 1. __Voeding:__ De kabels die aan de rechterkant van de voeding naar buiten komen zijn verbonden met de verschillende onderdelen.
 2. __CPU fan:__ Dit is een ventilator om de processor koel te houden. De processor zit onder de ventilator en kan je meestal niet zien.
 3. __Case ventilatoren:__ Deze kast heeft twee ventilatoren, een kleine links en een grote rechts beneden. Deze ventilatoren zuigen lucht uit de kast. De ventilatoren zijn zo opgesteld dat er voortdurend lucht door de kast stroomt om de belangrijke onderdelen koel te houden.
-4. __Moederbord:__ Het grote witte vierkant is de omtrek van het moederbord. Verschillende componenten zitten op het moederbord, inclusief CPU, RAM en de grafische kaart.
+4. __mainboard:__ Het grote witte vierkant is de omtrek van het mainboard. Verschillende componenten zitten op het mainboard, inclusief CPU, RAM en de grafische kaart.
 5. __Optische schijf slots:__ CD en DVD drives zitten meestal op deze plaats. Dit systeem heeft twee drives, en er is plaats voor een derde.
 6. __Hard drive slots:__ Harde schijven dienen voor permanente data opslag. Dit systeem heeft twee harde schijven, met plaats voor een derde.
 
@@ -23,7 +23,7 @@ Je ziet dat er verschillende soorten kabels in de kast zitten. De stroomkabels k
 <div class="header2" markdown = "1">## Hoofdkaart, of hoe je het noemt
 </div>
 
-De hoofdkaart wordt ook wel moederbord genoemd. Vaak gebruiken we gewoon de Engelse benaming: mainboard.
+De hoofdkaart wordt ook wel mainboard genoemd. Vaak gebruiken we gewoon de Engelse benaming: mainboard.
 
 Zoals je kan zien in figuur hierboven, neemt het mainboard behoorlijk wat plaats in beslag. De kast in die figuur is behoorlijk groot en dikwijls zal je zien dat de kast niet veel groter is dan de lengte en breedte van het mainboard. De componenten zitten dan echt op mekaar gepakt. In die kleine kasten is er niet veel ruimte voor uitbreidingen zoals opslagmedia.
 
@@ -63,11 +63,11 @@ Een ventilator wordt verondersteld een *field replaceable unit (FRU)* te zijn. D
 De afbeelding hierboven toont een ventilator. Je kan de volgende stappen volgen om hem te verwijderen.
 
 <div class="note opmerking"><p>
-Controleer eerst of de computer uit staat en de stroomkabel uitgetrokken is. Dikwijls gaat er toch nog elektriciteit naar het moederbord, zelfs als het systeem uit staat. Je kan je computer beschadigen als de stroomkabel nog in steekt.
+Controleer eerst of de computer uit staat en de stroomkabel uitgetrokken is. Dikwijls gaat er toch nog elektriciteit naar het mainboard, zelfs als het systeem uit staat. Je kan je computer beschadigen als de stroomkabel nog in steekt.
 </p></div>
 
 * __Verwijder vier schroeven van de achterkant van de kast.__ De pijltjes in de afbeelding wijzen naar twee van de schroeven. De andere twee zitten aan de andere twee hoeken.
-* __Maak de voedingskabel los.__ De voedingskabel is gekoppeld aan een specifieke aansluiting op het moederbord. Kijk goed welke aansluiting het is, want je zal later de nieuwe ventilator op dezelfde plaats moeten aansluiten. Ventilatoren kunnen twee, drie of vier pinnen gebruiken. De 4-pin connectors worden vooral gebruikt voor ventilatoren met een variabele snelheid, zodat de computer die snelheid kan controleren. Soms moet je ook een *molex* adapter gebruiken, maar dat is meestal wel duidelijk. 
+* __Maak de voedingskabel los.__ De voedingskabel is gekoppeld aan een specifieke aansluiting op het mainboard. Kijk goed welke aansluiting het is, want je zal later de nieuwe ventilator op dezelfde plaats moeten aansluiten. Ventilatoren kunnen twee, drie of vier pinnen gebruiken. De 4-pin connectors worden vooral gebruikt voor ventilatoren met een variabele snelheid, zodat de computer die snelheid kan controleren. Soms moet je ook een *molex* adapter gebruiken, maar dat is meestal wel duidelijk. 
 
 Nadat je de oude ventilator verwijderd hebt, kan je de nieuwe aansluiten. Zelfs nu moet je ook nog zoveel mogelijk stof van je computer verwijderen. Anders zal je nieuwe ventilator het ook niet lang uithouden.
 
